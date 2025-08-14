@@ -1,6 +1,0 @@
-[[headers]]
-  for = "/evaluacion.bin"
-  [headers.values]
-    X-Firmware-Version = "1.0.2"
-    ETag = "v1.0.2"
-    Cache-Control = "no-store, must-revalidate"
